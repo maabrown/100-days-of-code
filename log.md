@@ -17,3 +17,13 @@
 
 **Link to Work**
 1. [Repo Commit](https://github.com/maabrown/BeyApp/commit/0c1acbe3be08de2e1b72bec9962e2a81ae3c47c0)
+
+
+### Day 3: Apr 7, 2017
+
+**Today's Progress**: I figured out how to launch an app on Heroku.
+
+**Thoughts**: I realized how deployment worked and how to keep things secret via your process.env variables that are used by your host environment. Now I am curious about how to host a Node app on AWS and if it is similar.
+
+**Link to Work**
+1. [Heroku App](https://beyoncelyrics.herokuapp.com/)
